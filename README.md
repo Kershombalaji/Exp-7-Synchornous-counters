@@ -1,4 +1,4 @@
-## Experiment-06 Synchornous counters up counter
+## Experiment-06 Implementation of 4-bit synchronous counters using Verilog HDL.
 
 ### Name: BALAJI V
 ### Register number: 212223050008
