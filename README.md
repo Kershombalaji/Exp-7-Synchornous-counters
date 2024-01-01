@@ -3,7 +3,8 @@
 ### Name: BALAJI V
 ### Register number: 212223050008
 
-### AIM: To implement 4-bit up and down counters and validate  functionality.
+### AIM:
+To implement 4-bit up and down counters and validate  functionality.
 
 ### HARDWARE REQUIRED:  – PC, Cyclone II, USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
