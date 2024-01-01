@@ -1,9 +1,7 @@
-# Exp-7-Synchornous-counters
+## Experiment-06 Synchornous counters up counter
 
 ### Name: BALAJI V
 ### Register number: 212223050008
-
-## Experiment-06 Synchornous counters up counter
 
 ### AIM: To implement 4-bit up and down counters and validate  functionality.
 
